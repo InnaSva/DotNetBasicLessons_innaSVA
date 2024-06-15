@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork_3", "HomeWork_3\Ho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork_4", "HomeWork_4\HomeWork_4.csproj", "{6CFFCEA3-4156-41C0-AF78-B46CDCB27D05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_5", "HomeWork_5\HomeWork_5.csproj", "{514DA4A0-82F7-42DF-8D74-66862B51AF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork_5", "HomeWork_5\HomeWork_5.csproj", "{514DA4A0-82F7-42DF-8D74-66862B51AF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork6_Arraysone-multidimensional", "HomeWork6_Arraysone-multidimensional\HomeWork6_Arraysone-multidimensional.csproj", "{D136B778-F6C1-4089-92F8-2A59D25A859C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{514DA4A0-82F7-42DF-8D74-66862B51AF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{514DA4A0-82F7-42DF-8D74-66862B51AF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{514DA4A0-82F7-42DF-8D74-66862B51AF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D136B778-F6C1-4089-92F8-2A59D25A859C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D136B778-F6C1-4089-92F8-2A59D25A859C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D136B778-F6C1-4089-92F8-2A59D25A859C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D136B778-F6C1-4089-92F8-2A59D25A859C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
