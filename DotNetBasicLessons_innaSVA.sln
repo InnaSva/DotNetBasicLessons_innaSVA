@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork6_Arraysone-multidi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_FunctionsC#", "HomeWork7_FunctionsC#\HomeWork7_FunctionsC#.csproj", "{22FE963F-B909-41E1-972E-210079A8C7F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork9_sorting", "HomeWork9_sorting\HomeWork9_sorting.csproj", "{AB35E049-E392-4457-9F6B-25C33501E963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork9_sorting", "HomeWork9_sorting\HomeWork9_sorting.csproj", "{AB35E049-E392-4457-9F6B-25C33501E963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork11_Lists_dictionaries_collections", "HomeWork11_Lists_dictionaries_collections\HomeWork11_Lists_dictionaries_collections.csproj", "{97EF7F2D-0EF6-4F55-83CA-8C1FE60069C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork11_Lists_dictionaries_collections", "HomeWork11_Lists_dictionaries_collections\HomeWork11_Lists_dictionaries_collections.csproj", "{97EF7F2D-0EF6-4F55-83CA-8C1FE60069C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork12_regex", "HomeWork12_regex\HomeWork12_regex.csproj", "{D73BC9B6-B66C-45E8-96E5-A5BEBD042C32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{97EF7F2D-0EF6-4F55-83CA-8C1FE60069C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97EF7F2D-0EF6-4F55-83CA-8C1FE60069C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97EF7F2D-0EF6-4F55-83CA-8C1FE60069C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73BC9B6-B66C-45E8-96E5-A5BEBD042C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73BC9B6-B66C-45E8-96E5-A5BEBD042C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73BC9B6-B66C-45E8-96E5-A5BEBD042C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73BC9B6-B66C-45E8-96E5-A5BEBD042C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
